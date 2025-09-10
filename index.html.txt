@@ -1,0 +1,9 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>CallApp Videos</title></head>
+<body style="font-family:system-ui;padding:24px">
+  <h1>Repositorio de videos</h1>
+  <ul>
+    <li><a href="/video1.mp4">video1.mp4</a></li>
+    <li><a href="/video2.mp4">video2.mp4</a></li>
+  </ul>
+</body></html>
