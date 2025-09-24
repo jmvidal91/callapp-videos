@@ -1,4 +1,9 @@
 {
   "root": ".",
-  "clean_urls": true
+  "clean_urls": true,
+  "headers": {
+    "/**": {
+      "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate"
+    }
+  }
 }
