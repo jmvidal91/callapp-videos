@@ -1,5 +1,5 @@
 [build]
-builder = "static"
+builder = "NIXPACKS"
 
-[static]
-directory = "."
+[deploy]
+startCommand = "npx serve ."
